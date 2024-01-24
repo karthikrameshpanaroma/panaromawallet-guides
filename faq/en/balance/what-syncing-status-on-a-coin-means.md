@@ -1,4 +1,4 @@
-# What does the 'syncing' status on a coin means?
+# What does the 'syncing' status on a coin mean?
 
 The 'syncing' status indicator on a coin signifies that the Panaroma Decentralized app is attempting to synchronize itself with a specific blockchain. 
 

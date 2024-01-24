@@ -1,4 +1,4 @@
-# Does Panaroma Decentralized collect or share any user data?
+# Does Panaroma Decentralized collect user data?
 
 Panaroma Decentralized prioritizes user privacy by implementing strict measures: 
 

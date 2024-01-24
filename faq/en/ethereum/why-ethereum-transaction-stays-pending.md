@@ -1,4 +1,4 @@
-# Why does a Ethereum transaction stay pending?
+# Why does the Bitcoin transaction stay pending?
 
 
 You've outlined two common reasons why a transaction might remain in a pending state for an extended period of time:

@@ -1,4 +1,4 @@
-# How to swap cryptocurrency in Panaroma Decentralized
+# How to swap cryptocurrency
 
 The Panaroma Decentralized wallet seamlessly integrates the functionality to exchange one cryptocurrency token for another through decentralized cryptocurrency exchanges (DEX). 
 

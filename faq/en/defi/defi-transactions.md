@@ -1,4 +1,4 @@
-# How To Monitor Transactions executed via WalletConnect
+# How To Monitor WalletConnect transactions
 
 Certainly! Just like regular token transfers and swaps, DeFi transactions executed via WalletConnect will also be tracked in the Transactions tab of the Panaroma Decentralized wallet. In the transactions list, these transactions will typically appear as 'Contract Call' but may also have a more descriptive name such as 'Sushiswap Pool Deposit' based on the specific action taken.  
 

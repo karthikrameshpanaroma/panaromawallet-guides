@@ -1,4 +1,4 @@
-# Why is a separate Approve transaction needed before a swap?
+# Why approve transaction is needed?
 
 When engaging in certain swap trades, users are required to execute a separate "Approve" transaction. These include: 
 

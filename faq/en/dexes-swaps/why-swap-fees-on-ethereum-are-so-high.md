@@ -1,4 +1,4 @@
-# Why are swap fees on Ethereum so high?
+# Why swap fees are so high?
 
 The Ethereum blockchain is busy and therefore expensive to transact on. The more people there are transacting on the blockchain, the more expensive the transactions are.
 

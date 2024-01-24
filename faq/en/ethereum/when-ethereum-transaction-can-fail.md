@@ -1,4 +1,4 @@
-# Why Ethereum transaction can fail?
+# When Ethereum transaction considered final?
 
 You've highlighted two common error reasons for Ethereum transactions:
 

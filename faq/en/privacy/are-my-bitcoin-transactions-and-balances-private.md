@@ -1,4 +1,4 @@
-# Are my Bitcoin transactions and balance private?
+# Are Bitcoin transactions private?
 
 Bitcoin transactions offer a higher level of privacy compared to Ethereum due to the ability to use unique addresses for each incoming payment. Panaroma Decentralized wallet further enhances this privacy by automatically changing the deposit address after each payment, making it more challenging for external entities to link a user's balance and past transactions  
 

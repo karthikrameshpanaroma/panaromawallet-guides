@@ -1,8 +1,8 @@
 # How do you use a mnemonic passphrase?
 
-The use of a mnemonic passphrase in the Unstoppable app adds an extra layer of security to the wallet, enhancing protection against unauthorized access even if the mnemonic phrase is somehow obtained by an unauthorized entity.
+The use of a mnemonic passphrase in the  Panaroma Decentralized app adds an extra layer of security to the wallet, enhancing protection against unauthorized access even if the mnemonic phrase is somehow obtained by an unauthorized entity.
 
-One notable feature in the Unstoppable app is the ability for users to create multiple wallets that share the same mnemonic phrase but have different mnemonic passphrases. This creative and convenient approach enables users to manage multiple cryptocurrency wallets securely. Each wallet may have the same underlying mnemonic phrase but is uniquely protected by its own passphrase.
+One notable feature in the  Panaroma Decentralized app is the ability for users to create multiple wallets that share the same mnemonic phrase but have different mnemonic passphrases. This creative and convenient approach enables users to manage multiple cryptocurrency wallets securely. Each wallet may have the same underlying mnemonic phrase but is uniquely protected by its own passphrase.
 
 For instance:
 

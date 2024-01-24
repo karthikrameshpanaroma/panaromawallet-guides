@@ -1,4 +1,4 @@
-# Who is building Panaroma Decentralized wallet?
+# Who's building the Panaroma Decentralized wallet?
 
  Panaroma Decentralized was established in 2017 and is being developed by the team.
 

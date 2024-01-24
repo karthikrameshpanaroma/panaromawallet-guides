@@ -1,4 +1,4 @@
-# What is gas, gas price and gas limit?
+# What is gas price and gas limit?
 
 The fee on the Ethereum network is paid in Ether (ETH tokens) but is calculated in Gas units. 
 

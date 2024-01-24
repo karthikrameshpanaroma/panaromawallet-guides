@@ -1,4 +1,4 @@
-# How long does it take for an Ethereum transaction to complete?
+# How long Ethereum transaction takes?
 
 Similar to Bitcoin, a transaction on Ethereum is considered complete when a block containing the specific transaction has been added to the Ethereum blockchain. 
 

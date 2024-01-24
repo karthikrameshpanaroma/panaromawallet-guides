@@ -1,12 +1,12 @@
-# Are users anonymous when transacting on Panaroma Decentralized?
+# Are Panaroma Decentralized users anonymous?
 
-For the most part the activity of someone using Unstoppable is anonymous, but there are many other factors that may affect someone's privacy.
+For the most part the activity of someone using  Panaroma Decentralized is anonymous, but there are many other factors that may affect someone's privacy.
 
-These factors relate to internet privacy in general, and not to Unstoppable directly. Below, we outline some of the more important points to be aware of.
+These factors relate to internet privacy in general, and not to  Panaroma Decentralized directly. Below, we outline some of the more important points to be aware of.
 
-1. When someone uses Unstoppable to send and receive transactions, the identity and other data of the person remain private. Neither Unstoppable developers know anything about users nor any 3rd party entity, be it a government agency or a financial regulator.
+1. When someone uses  Panaroma Decentralized to send and receive transactions, the identity and other data of the person remain private. Neither  Panaroma Decentralized developers know anything about users nor any 3rd party entity, be it a government agency or a financial regulator.
 
-   At the same time if the person regularly uses Unstoppable wallet to interact with non-private (regulated) crypto exchanges or any other centralized wallets, then there is a high chance that user activity on these platforms is being shared with external parties.
+   At the same time if the person regularly uses Panaroma Decentralized wallet to interact with non-private (regulated) crypto exchanges or any other centralized wallets, then there is a high chance that user activity on these platforms is being shared with external parties.
 
    From that activity, it may become possible for a 3rd party to uncover that certain addresses/transactions belong to the same user.
 
@@ -16,7 +16,7 @@ These factors relate to internet privacy in general, and not to Unstoppable dire
 
    ISPs can potentially keep track of users' browsing activities, sites visited, etc. and have means to match that data with real world identities of customers. Depending on sites visited, users may unintentionally expose some data about themselves including addresses owned and token balances.
 
-   Wallets like Unstoppable provide ways to route internet traffic on the app level via encrypted proxy channels (using VPN, TOR) making it impossible for an ISP and similar bodies to know the context of users' internet activity when using the Unstoppable wallet app.
+   Wallets like  Panaroma Decentralized provide ways to route internet traffic on the app level via encrypted proxy channels (using VPN, TOR) making it impossible for an ISP and similar bodies to know the context of users' internet activity when using the  Panaroma Decentralized wallet app.
 
 3. Finally, users should also be aware about varying privacy levels offered by different cryptocurrencies like Bitcoin and Ethereum.
 

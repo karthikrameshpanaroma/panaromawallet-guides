@@ -1,4 +1,4 @@
-# What is Decentralized Finance (DeFi)?
+# What is Decentralized Finance?
 
 Decentralized Finance (DeFi) stands in contrast to traditional finance by providing financial services without relying on centralized intermediaries. In traditional finance, various service providers impose conditions and regulations on users, controlling access and participation in their services. Examples include banks with minimum account balances and credit card issuers with the authority to cancel cards. 
 

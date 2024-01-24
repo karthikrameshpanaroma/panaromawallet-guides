@@ -1,4 +1,4 @@
-# Why are Ethereum transactions so expensive?
+# Why Ethereum fees are so high?
 
 
 You've provided a comprehensive overview of the various transaction types that can occur on the Ethereum blockchain and highlighted how the complexity of transactions influences the associated transaction fees. Here's a recap:

@@ -1,4 +1,4 @@
-# Why does the Ethereum and ERC20 token address always stay the same?
+# Why Ethereum and ERC20 addresses are same?
 
 You've correctly pointed out a key distinction between Ethereum and Bitcoin in terms of payment addresses:
 

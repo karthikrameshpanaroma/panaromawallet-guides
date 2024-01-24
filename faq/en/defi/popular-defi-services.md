@@ -1,4 +1,4 @@
-# What are some popular DeFi services?
+# What are popular DeFi services?
 
 Certainly, the DeFi (Decentralized Finance) space has seen a proliferation of services across various blockchains. Here are some key categories of DeFi services and notable examples: 
 

@@ -1,4 +1,4 @@
-# What is the  Panaroma Decentralized?
+# What is the  Panaroma Decentralized wallet?
 
 - A non-custodial wallet putting users in complete control of their cryptocurrency keys.  
 

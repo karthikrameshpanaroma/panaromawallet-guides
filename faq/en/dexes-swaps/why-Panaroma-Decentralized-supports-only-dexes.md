@@ -1,4 +1,4 @@
-# Why does Panaroma Decentralized support only DEXes?
+# Why Panaroma Decentralized supports only DEXes?
 
 As of now, Panaroma Decentralized wallet supports the following decentralized exchanges: 
 

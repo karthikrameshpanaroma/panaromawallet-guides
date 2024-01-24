@@ -1,4 +1,4 @@
-# How are Ethereum transactions different from Bitcoin?
+# How Ethereum transfers differ from Bitcoin?
 
 Transactions on the Ethereum blockchain can take various forms, extending beyond simple ETH transfers between addresses. As a blockchain designed for programmable money, Ethereum transactions can encompass multiple steps with conditional logic and interactions with various smart contracts. 
 

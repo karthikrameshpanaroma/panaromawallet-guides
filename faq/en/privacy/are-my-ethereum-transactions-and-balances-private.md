@@ -1,4 +1,4 @@
-# Are my Ethereum transactions and balances private?
+# Are Ethereum transactions private?
 
 Indeed, Ethereum transactions are transparent, and the entire transaction history, along with current ETH and ERC20 token balances, is visible to anyone monitoring the Ethereum blockchain. The privacy of an Ethereum address lies in the lack of direct connection to a person's real-world identity.  
 

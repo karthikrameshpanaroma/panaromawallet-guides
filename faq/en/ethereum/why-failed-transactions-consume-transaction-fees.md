@@ -1,4 +1,4 @@
-# Why failed transactions consume transaction fees
+# Why failed transactions consume fees
 
 You've provided a comprehensive explanation of the intricacies associated with completed transactions on the blockchain, and it's worth emphasizing a few key points:
 

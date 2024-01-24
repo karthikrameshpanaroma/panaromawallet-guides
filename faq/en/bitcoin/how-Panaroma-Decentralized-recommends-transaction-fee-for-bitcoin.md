@@ -1,4 +1,4 @@
-# How Bitcoin transaction fee calculated?
+# How does Panaroma Decentralized recommend the transaction fee for Bitcoin?
 
 Non-custodial wallets like  Panaroma Decentralized provide an estimated transaction fee amount for Bitcoin transactions to ensure they are included in the next block on the blockchain. The fee recommendation feature offers various levels based on the urgency of the transaction:
 

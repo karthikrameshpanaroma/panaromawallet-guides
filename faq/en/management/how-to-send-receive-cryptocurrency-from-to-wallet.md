@@ -1,4 +1,4 @@
-# How do you send/receive cryptocurrency?
+# How do you send/receive cryptocurrency to/from the wallet?
 
 Most non-custodial wallets share a similar design for sending or receiving cryptocurrencies. 
 
