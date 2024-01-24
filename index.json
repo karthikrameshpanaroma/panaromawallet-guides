@@ -5,49 +5,49 @@
       {
         "title": "1. Cryptocurrency",
         "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/images/01-main-l.png",
-        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/1-cryptocurrency-basics.md",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/en/1-cryptocurrency-basics.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "2. Wallets",
         "image_url":"https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/images/02-main-l.png",
-        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/2-wallets-basics.md",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/en/2-wallets-basics.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "3. Private Keys",
         "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/images/03-main-l.png",
-        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/3-private-keys-basics.md",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/en/3-private-keys-basics.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "4. Safe Storage Tips",
         "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/images/04-main-l.png",
-        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/4-safe-storage-basics.md",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/en/4-safe-storage-basics.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "5. Unstoppable Wallet",
         "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/images/05-main-l.png",
-        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/5-panaroma-basics.md",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/en/5-panaroma-basics.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "6. Buying Cryptocurrency",
         "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/images/06-main-l.png",
-        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/6-buying-cryptocurrency-basics.md",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/en/6-buying-cryptocurrency-basics.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "7. Spending Cryptocurrency",
         "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/images/07-main-l.png",
-        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/7-spending-cryptocurrency.md",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/en/7-spending-cryptocurrency.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "8. Transactions",
         "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/images/08-main-l.png",
-        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/8-transactions-basics.md",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/fundamentals/en/8-transactions-basics.md",
         "updated_at": "01-06-2020"
       }
     ]
@@ -57,32 +57,32 @@
     "guides": [
       {
         "title": "Bitcoin in Simple Terms",
-        "image_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/btc-Main-l.png",
-        "file_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/bitcoin.md",
+        "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/images/btc-Main-l.png",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/en/bitcoin.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "Ethereum in Simple Terms",
-        "image_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/eth-Main-l.png",
-        "file_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/ethereum.md",
+        "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/images/eth-Main-l.png",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/en/ethereum.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "Bitcoin Cash in Simple Terms",
-        "image_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/bch-Main-l.png",
-        "file_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/bitcoin-cash.md",
+        "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/images/bch-Main-l.png",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/en/bitcoin-cash.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "Tether in Simple Terms",
-        "image_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/usdt-Main-l.png",
-        "file_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/tether.md",
+        "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/images/usdt-Main-l.png",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/en/tether.md",
         "updated_at": "01-06-2020"
       },
       {
         "title": "MakerDAO & DAI in Simple Terms",
-        "image_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/mkr-Main-l.png",
-        "file_url": "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/makerdao.md",
+        "image_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/images/mkr-Main-l.png",
+        "file_url": "https://raw.githubusercontent.com/karthikrameshpanaroma/panaromawallet-guides/main/guides/token_guides/en/makerdao.md",
         "updated_at": "01-06-2020"
       }
     ]
