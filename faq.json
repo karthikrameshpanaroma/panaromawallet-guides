@@ -636,40 +636,6 @@
           "title": "How do you send/receive cryptocurrency to/from the wallet?",
           "markdown": "faq/ko/management/how-to-send-receive-cryptocurrency-from-to-wallet.md"
         }
-      },
-      {
-        "en": {
-          "title": "How do you buy/sell cryptocurrency for fiat in Panaroma Decentralized?",
-          "markdown": "faq/en/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Panaroma-Decentralized.md"
-        },
-        "ru": {
-          "title": "How do you buy/sell cryptocurrency for fiat in Panaroma Decentralized?",
-          "markdown": "faq/ru/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Panaroma-Decentralized.md"
-        },
-        "de": {
-          "title": "How do you buy/sell cryptocurrency for fiat in Panaroma Decentralized?",
-          "markdown": "faq/de/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Panaroma-Decentralized.md"
-        },
-        "es": {
-          "title": "How do you buy/sell cryptocurrency for fiat in Panaroma Decentralized?",
-          "markdown": "faq/es/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Panaroma-Decentralized.md"
-        },
-        "fr": {
-          "title": "How do you buy/sell cryptocurrency for fiat in Panaroma Decentralized?",
-          "markdown": "faq/fr/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Panaroma-Decentralized.md"
-        },
-        "tr": {
-          "title": "How do you buy/sell cryptocurrency for fiat in Panaroma Decentralized?",
-          "markdown": "faq/tr/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Panaroma-Decentralized.md"
-        },
-        "zh": {
-          "title": "How do you buy/sell cryptocurrency for fiat in Panaroma Decentralized?",
-          "markdown": "faq/zh/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Panaroma-Decentralized.md"
-        },
-        "ko": {
-          "title": "How do you buy/sell cryptocurrency for fiat in Panaroma Decentralized?",
-          "markdown": "faq/ko/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Panaroma-Decentralized.md"
-        }
       }
     ]
   },
