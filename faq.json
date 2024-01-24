@@ -1531,35 +1531,35 @@
       },
       {
         "en": {
-          "title": "Can a user send a transaction to themselves?",
+          "title": "Is it safe to share payment address with others?",
           "markdown": "faq/en/transactions/is-it-safe-to-share-payment-address-with-others.md"
         },
         "ru": {
-          "title": "Can a user send a transaction to themselves?",
+          "title": "Is it safe to share payment address with others?",
           "markdown": "faq/ru/transactions/is-it-safe-to-share-payment-address-with-others.md"
         },
         "de": {
-          "title": "Can a user send a transaction to themselves?",
+          "title": "Is it safe to share payment address with others?",
           "markdown": "faq/de/transactions/is-it-safe-to-share-payment-address-with-others.md"
         },
         "es": {
-          "title": "Can a user send a transaction to themselves?",
+          "title": "Is it safe to share payment address with others?",
           "markdown": "faq/es/transactions/is-it-safe-to-share-payment-address-with-others.md"
         },
         "fr": {
-          "title": "Can a user send a transaction to themselves?",
+          "title": "Is it safe to share payment address with others?",
           "markdown": "faq/fr/transactions/is-it-safe-to-share-payment-address-with-others.md"
         },
         "tr": {
-          "title": "Can a user send a transaction to themselves?",
+          "title": "Is it safe to share payment address with others?",
           "markdown": "faq/tr/transactions/is-it-safe-to-share-payment-address-with-others.md"
         },
         "zh": {
-          "title": "Can a user send a transaction to themselves?",
+          "title": "Is it safe to share payment address with others?",
           "markdown": "faq/zh/transactions/is-it-safe-to-share-payment-address-with-others.md"
         },
         "ko": {
-          "title": "Can a user send a transaction to themselves?",
+          "title": "Is it safe to share payment address with others?",
           "markdown": "faq/ko/transactions/is-it-safe-to-share-payment-address-with-others.md"
         }
       },
@@ -2021,36 +2021,36 @@
       },
       {
         "en": {
-          "title": "Why does the Bitcoin payment address keeps changing?",
-          "markdown": "faq/en/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
+          "title": "Is it Safe to share Bitcoin address with others?",
+          "markdown": "faq/en/bitcoin/is-it-safe-to-share-bitcoin-payment-address-with-others.md"
         },
         "ru": {
-          "title": "Why does the Bitcoin payment address keeps changing?",
-          "markdown": "faq/ru/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
+          "title": "Is it Safe to share Bitcoin address with others?",
+          "markdown": "faq/ru/bitcoin/is-it-safe-to-share-bitcoin-payment-address-with-others.md"
         },
         "de": {
-          "title": "Why does the Bitcoin payment address keeps changing?",
-          "markdown": "faq/de/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
+          "title": "Is it Safe to share Bitcoin address with others?",
+          "markdown": "faq/de/bitcoin/is-it-safe-to-share-bitcoin-payment-address-with-others.md"
         },
         "es": {
-          "title": "Why does the Bitcoin payment address keeps changing?",
-          "markdown": "faq/es/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
+          "title": "Is it Safe to share Bitcoin address with others?",
+          "markdown": "faq/es/bitcoin/is-it-safe-to-share-bitcoin-payment-address-with-others.md"
         },
         "fr": {
-          "title": "Why does the Bitcoin payment address keeps changing?",
-          "markdown": "faq/fr/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
+          "title": "Is it Safe to share Bitcoin address with others?",
+          "markdown": "faq/fr/bitcoin/is-it-safe-to-share-bitcoin-payment-address-with-others.md"
         },
         "tr": {
-          "title": "Why does the Bitcoin payment address keeps changing?",
-          "markdown": "faq/tr/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
+          "title": "Is it Safe to share Bitcoin address with others?",
+          "markdown": "faq/tr/bitcoin/is-it-safe-to-share-bitcoin-payment-address-with-others.md"
         },
         "zh": {
-          "title": "Why does the Bitcoin payment address keeps changing?",
-          "markdown": "faq/zh/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
+          "title": "Is it Safe to share Bitcoin address with others?",
+          "markdown": "faq/zh/bitcoin/is-it-safe-to-share-bitcoin-payment-address-with-others.md"
         },
         "ko": {
-          "title": "Why does the Bitcoin payment address keeps changing?",
-          "markdown": "faq/ko/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
+          "title": "Is it Safe to share Bitcoin address with others?",
+          "markdown": "faq/ko/bitcoin/is-it-safe-to-share-bitcoin-payment-address-with-others.md"
         }
       },
       {
