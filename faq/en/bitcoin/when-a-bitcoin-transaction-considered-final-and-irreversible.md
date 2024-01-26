@@ -1,4 +1,4 @@
-# When a Bitcoin transaction considered final and irreversible?
+# When a Bitcoin transaction considered final?
 
 While a Bitcoin transaction is considered confirmed once it has been added to the blockchain, it's not considered final (irreversible) until a few more transaction blocks are added to the blockchain. 
 

@@ -1,4 +1,4 @@
-# Where to download Panaroma Decentralized Wallet from?
+# Where can you download Panaroma Decentralized Wallet from?
 
 Always download Panaroma Decentralized wallet app from official sources:
 

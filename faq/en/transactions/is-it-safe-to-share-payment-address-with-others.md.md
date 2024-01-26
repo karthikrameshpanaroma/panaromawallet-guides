@@ -1,4 +1,4 @@
-# Is it safe to share payment address with others?
+# Can a user send a transaction to themselves?
 
 Users should share their payment address with anyone they expect to receive payments from. However, there are a few things to keep in mind: 
 
