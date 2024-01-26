@@ -2239,40 +2239,6 @@
       },
       {
         "en": {
-          "title": "How Ethereum fees are calculated?",
-          "markdown": "faq/en/ethereum/how-Panaroma-Decentralized-recommends-transaction-fee-for-ethereum.md"
-        },
-        "ru": {
-          "title": "How Ethereum fees are calculated?",
-          "markdown": "faq/ru/ethereum/how-Panaroma-Decentralized-recommends-transaction-fee-for-ethereum.md"
-        },
-        "de": {
-          "title": "How Ethereum fees are calculated?",
-          "markdown": "faq/de/ethereum/how-Panaroma-Decentralized-recommends-transaction-fee-for-ethereum.md"
-        },
-        "es": {
-          "title": "How Ethereum fees are calculated?",
-          "markdown": "faq/es/ethereum/how-Panaroma-Decentralized-recommends-transaction-fee-for-ethereum.md"
-        },
-        "fr": {
-          "title": "How Ethereum fees are calculated?",
-          "markdown": "faq/fr/ethereum/how-Panaroma-Decentralized-recommends-transaction-fee-for-ethereum.md"
-        },
-        "tr": {
-          "title": "How Ethereum fees are calculated?",
-          "markdown": "faq/tr/ethereum/how-Panaroma-Decentralized-recommends-transaction-fee-for-ethereum.md"
-        },
-        "zh": {
-          "title": "How Ethereum fees are calculated?",
-          "markdown": "faq/zh/ethereum/how-Panaroma-Decentralized-recommends-transaction-fee-for-ethereum.md"
-        },
-        "ko": {
-          "title": "How Ethereum fees are calculated?",
-          "markdown": "faq/ko/ethereum/how-Panaroma-Decentralized-recommends-transaction-fee-for-ethereum.md"
-        }
-      },
-      {
-        "en": {
           "title": "Why Ethereum fees are so high?",
           "markdown": "faq/en/ethereum/why-ethereum-transactions-are-so-expensive.md"
         },
