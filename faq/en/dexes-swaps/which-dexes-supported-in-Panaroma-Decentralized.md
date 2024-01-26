@@ -1,4 +1,4 @@
-# Why Panaroma Decentralized supports only DEXes ?
+# Which DEXes Panaroma Decentralized supports?
 
 The Panaroma Decentralized wallet app is designed to operate independently of the traditional financial ecosystem, and as a result, it does not incorporate financial services typically found within traditional finance systems. 
 

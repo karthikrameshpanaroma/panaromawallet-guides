@@ -1,4 +1,4 @@
-# Why does the Bitcoin payment address keeps changing?
+# Is it safe to share Bitoin payment address with others?
 
 Absolutely, you've captured the essence of the privacy-preserving mechanism implemented by wallets like Panaroma Decentralized when it comes to Bitcoin and Bitcoin-based cryptocurrencies.
 
